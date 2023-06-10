@@ -1,0 +1,11 @@
+1. https- secured version of HTTP
+2. XAMPP: 
+	hosting portfolio online
+	apache on
+	localhost/foldername/mainfilename
+3. status code: 200:success resources found
+		404:resources not found
+4. cache memory: 
+
+workshop:
+query selctor document.elementByClassName

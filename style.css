@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    align-content: center;
+}
+h1{
+    color:grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.maindiv{
+    align-items: center;
+    Background-color:white;
+    color:black;
+    width:400px;
+   Border-radius:25px;
+    Text-align:center;
+    line-height:40px ;
+}
+
+
